@@ -16,6 +16,7 @@ export default function GreetingCard() {
         placeholder="Enter your name"
       />
       <p>{message}</p>
+      123
     </section>
   );
 }
